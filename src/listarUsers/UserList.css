@@ -1,0 +1,31 @@
+.container {
+    background-color: white;
+    color: black;
+    margin: 3rem 3rem 3rem 3rem;
+}
+
+.lista {
+    margin-left: 2rem;
+}
+
+.user {
+    background-color: #F0F0F0;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+    padding-top: 0.1rem;
+    padding-bottom: 1rem;
+}
+
+h3 {
+    margin: 1rem 1rem 0rem 1rem;
+    color: black;
+}
+
+h4 {
+    margin: 1rem 1rem 0rem 2rem;
+    color: rgb(77, 77, 77);
+}
+
+.name {
+    margin-top: 5rem;
+}
