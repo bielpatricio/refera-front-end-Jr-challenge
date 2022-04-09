@@ -3,7 +3,7 @@ Refera - FrontEnd Junior Code Challenge
 
 O objetivo da aplicação web é visualizar os dados de uma API (que está neste link: https://jsonplaceholder.typicode.com/users), e implementar também um botão "Novo usuário", que abrirá um formulário para cadastrar o novo usuário.
 
-##Acceptance criteria
+## Acceptance criteria
 - Provides clear instructions on how to run the app in development mode
 - A webpage, following the low-fidelity prototype presented in **Resources**
   - Table with data of "registered" users
