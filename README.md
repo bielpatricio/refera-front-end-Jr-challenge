@@ -1,7 +1,7 @@
 # refera-front-end-Jr-challenge
 Refera - FrontEnd Junior Code Challenge
 
-O objetivo da aplicação web é visualizar os dados de uma API (que está neste link: https://jsonplaceholder.typicode.com/users), e implementar também um botão "Novo usuário", que abrirá um formulário para cadastrar o novo usuário.
+The purpose of the web application is to visualize data from an API (which is at this link: https://jsonplaceholder.typicode.com/users), and also implement a "New User" button, which will open a form to register the new user.
 
 ## Acceptance criteria
 - Provides clear instructions on how to run the app in development mode
@@ -13,7 +13,7 @@ O objetivo da aplicação web é visualizar os dados de uma API (que está neste
   - "Save" button to display the "Save successfully" dialog message.
   - "Cancel" button to return to user list
 
-A branch principal é a main ou a master.
+The main branch is either "main" or "master".
 
 In the project directory, you can run:
 
