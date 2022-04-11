@@ -1,0 +1,64 @@
+.container {
+    background-color: white;
+    color: black;
+    margin: 3rem 3rem 3rem 3rem;
+    width: 40rem;
+}
+
+.div-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lista {
+    margin-left: 2rem;
+}
+
+.user {
+    background-color: #F0F0F0;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+    padding-top: 0.1rem;
+    padding-bottom: 1rem;
+}
+
+h3 {
+    margin: 1rem 1rem 0rem 1rem;
+    color: black;
+}
+
+h4 {
+    margin: 1rem 1rem 0rem 2rem;
+    color: rgb(77, 77, 77);
+}
+
+.name {
+    margin-top: 5rem;
+}
+
+.button {
+  background-color: #3F51B5;
+  border-color: #3F51B5;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.div-button{
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.div-userlist {
+  min-width: 85%;
+}
+
+.div-register {
+  align-items: left;
+}
