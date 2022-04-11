@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { Form } from 'react-bootstrap';
 import { useNavigate } from "react-router-dom";
 
-const RegisterUSer = () => {
+const RegisterUser = () => {
     const navigate = useNavigate();
     const [name, setName] = useState("");
 
@@ -70,6 +70,6 @@ const RegisterUSer = () => {
     );
   }
 
-  export default RegisterUSer;
+  export default RegisterUser;
 
 
